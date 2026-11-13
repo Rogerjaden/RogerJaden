@@ -364,17 +364,24 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rogerjaden&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Rogerjaden&theme=tokyonight&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA&hide_border=true" />
+<img src="./assets/overview.dark.svg" width="100%" alt="GitHub Overview" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerjaden&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_border=true&langs_count=8" />
+<img src="./assets/lifetime.dark.svg" width="100%" alt="Lifetime Contributions" />
 
 </div>
 
-<sub>Private contribution visibility depends on the statistics service's token permissions and configuration. For reliable private-repository statistics, use a self-hosted instance with an appropriately authorized token.</sub>
+<div align="center">
+
+<img src="./assets/contributions.dark.svg" width="100%" alt="Contribution Streak" />
+
+<br/><br/>
+
+<img src="./assets/languages.dark.svg" width="70%" alt="Top Languages" />
+
+</div>
+
 
 ---
 
@@ -386,7 +393,11 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Rogerjaden&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<a href="https://github.com/Rogerjaden?tab=achievements">
+
+<img src="https://img.shields.io/badge/GitHub-View%20Achievements-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
 
 </div>
 
@@ -400,7 +411,11 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rogerjaden&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" />
+<img src="./assets/rhythm.dark.svg" width="100%" alt="Contribution Activity" />
+
+<br/><br/>
+
+<img src="./assets/momentum.dark.svg" width="100%" alt="Contribution Momentum" />
 
 </div>
 
@@ -414,7 +429,7 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rogerjaden/Rogerjaden/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Rogerjaden/Rogerjaden/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
