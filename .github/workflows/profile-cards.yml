@@ -1,0 +1,47 @@
+
+name: Generate GitHub Profile Analytics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate profile analytics
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.PROFILE_TOKEN }}
+          username: Rogerjaden
+
+          cards: overview,momentum,contributions,lifetime,languages,rhythm
+
+          output-dir: assets
+
+          themes: dark
+
+          palette: purple
+
+          font: Roboto
+
+          language-limit: 8
+
+          commit: true
+
+          commit-message: "chore(profile): update GitHub analytics"
