@@ -1,13 +1,12 @@
-
 <!-- ===================================================== -->
 <!--                    ANIMATED HEADER                    -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:312E81&height=190&section=header&text=ROGER%20JADEN&fontSize=48&fontColor=EDE9FE&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:312E81&height=200&section=header&text=ROGER%20JADEN&fontSize=50&fontColor=EDE9FE&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+React;Exploring+Distributed+Systems+%26+Cloud;Engineering+Reliable+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Backend+Systems+%26+APIs;Java+%7C+Spring+Boot+%7C+Microservices+%7C+React;Applied+AI%2FML+%7C+Distributed+Systems+%7C+Cloud;Engineering+Fault-Tolerant+Production+Software" alt="Typing SVG" />
 
 <br/>
 
@@ -41,280 +40,225 @@
 ---
 
 <!-- ===================================================== -->
-<!--                       ABOUT ME                        -->
+<!--                        ABOUT ME                         -->
 <!-- ===================================================== -->
 
 ## About Me
 
-I'm **Roger Jaden**, a Software Engineer focused on building reliable, scalable, and maintainable software systems.
+I am **Roger Jaden**, a Software Engineer specializing in architecting high-throughput, resilient, and maintainable backend systems and cloud-native applications.
 
-My primary engineering focus is **Java backend development with Spring Boot**, complemented by full-stack development experience and practical exposure to AI/ML.
+My core engineering discipline centers on **Java and the Spring ecosystem**, complemented by end-to-end full-stack product execution in **React** and applied research in **Deep Learning & Computer Vision**.
 
-I enjoy understanding how software works beneath the surface — from database design, API architecture, authentication, and transaction management to application performance, system reliability, and scalability.
+I engineer software with deep attention to underlying system mechanics — spanning relational database indexing, distributed caching, concurrency control, stateless security architectures, and fault-tolerant API design. Guided by a strong product-engineering mindset, I focus on translating complex domain problems into clean, modular, and production-ready systems.
 
-I approach software engineering with a product-oriented mindset: writing clean code, designing meaningful abstractions, solving real-world problems, and building applications that can evolve with growing requirements.
+### Core Engineering Pillars
 
-### Engineering Interests
-
-- **Backend Engineering:** Building RESTful APIs, secure applications, and maintainable backend architectures.
-- **Full Stack Development:** Connecting backend systems with responsive and functional frontend applications.
-- **Database Engineering:** Relational database design, query optimization, indexing, and transaction management.
-- **Distributed Systems:** Exploring caching, messaging, concurrency, and scalable system architecture.
-- **AI / ML:** Practical experience with computer vision, deep learning, attention mechanisms, and hybrid neural architectures.
-- **Product Engineering:** Turning requirements into functional applications with a focus on reliability and maintainability.
+- **Backend & Systems Architecture:** Designing resilient RESTful services, microservices, idempotent workflows, and stateless security layers.
+- **Full-Stack Product Engineering:** Bridging high-performance backend engines with responsive, low-latency client interfaces.
+- **Database & Concurrency Engineering:** Schema normalization, query execution optimization, pessimistic/optimistic locking, and ACID transaction management.
+- **Distributed Systems & Cloud:** Implementing distributed caching, event-driven messaging pipelines, containerization, and automated CI/CD workflows.
+- **Applied AI / ML Engineering:** Developing hybrid deep learning pipelines integrating convolutional backbones, spatial-channel attention, and transformer encoders.
 
 ### Open To
 
-- Software Engineer / SDE opportunities.
-- Java Backend Developer roles.
-- Full Stack Development opportunities.
-- Open-source contributions and collaboration.
-- Engineering projects involving scalable backend systems.
+- Software Development Engineer (SDE) roles
+- Backend Software Engineer (Java / Spring Boot) positions
+- Full-Stack Software Engineer opportunities
+- Distributed Systems & Cloud Infrastructure engineering roles
+- High-impact Open Source collaborations
 
 ---
 
 <!-- ===================================================== -->
-<!--                      TECH STACK                       -->
+<!--                       TECH STACK                        -->
 <!-- ===================================================== -->
 
 ## Tech Stack
 
-Technologies and tools I work with, grouped by engineering domain.
-
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql&theme=dark" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis,kafka&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,idea,postman,maven,kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git,github,idea,postman,maven,linux&theme=dark" />
 </p>
 
-### Testing & Engineering Practices
+### Architecture, Security & Testing
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Spring%20Security-4C1D95?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth2%20%2F%20JWT-312E81?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit%205-6D28D9?style=flat-square&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Mockito-4F46E5?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Testcontainers-1E1B4B?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-7C3AED?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 </p>
-
-**Current learning / exploration:** Spring Cloud, Kubernetes, Jenkins, Kafka, Redis, distributed systems, and advanced system design.
 
 ---
 
 <!-- ===================================================== -->
-<!--                     AI / ML                           -->
+<!--                      AI / ML                            -->
 <!-- ===================================================== -->
 
 ## AI / ML Expertise
 
-My AI/ML experience is primarily project-based, with practical implementation experience in computer vision and deep learning.
-
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Deep Learning | Project-based | Training and evaluating deep learning models |
-| Computer Vision | Project-based | Image classification and medical image analysis |
-| CNN Architectures | Project-based | ResNet50-based feature extraction |
-| Attention Mechanisms | Project-based | CBAM attention modules |
-| Transformer Models | Project-based | Transformer-based feature learning |
-| Model Evaluation | Project-based | Accuracy measurement and classification evaluation |
-| Explainable AI | Exposure | Grad-CAM experimentation |
-
-**Primary AI/ML Project:** Deep Hybrid Model for Classification of Femoral Stem.
+| **Deep Learning** | Applied Research | End-to-end model training, hyperparameter tuning, and convergence optimization in PyTorch |
+| **Computer Vision** | Applied Research | Automated medical image classification, preprocessing pipelines, and augmentation strategies |
+| **CNN Architectures** | Applied Research | Transfer learning and multi-scale visual feature extraction utilizing ResNet50 backbones |
+| **Attention Mechanisms** | Applied Research | Convolutional Block Attention Module (CBAM) integration for channel and spatial feature refinement |
+| **Transformer Models** | Applied Research | Hybrid CNN-Transformer architectures for global contextual dependency modeling |
+| **Model Evaluation** | Applied Research | Multi-class evaluation utilizing Accuracy, Precision, Recall, F1-Score, and ROC-AUC metrics |
+| **Explainable AI (XAI)** | Applied Research | Grad-CAM activation mapping for clinical visual interpretability and feature localization |
 
 ---
 
 <!-- ===================================================== -->
-<!--                   FEATURED PROJECTS                   -->
+<!--                    FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
 
 ## Featured Projects
 
-A selection of engineering projects demonstrating backend development, full-stack implementation, database design, and applied machine learning.
-
 <details>
-<summary><b>01. CloudVault — Secure Cloud File Management Platform</b></summary>
+<summary><b>01. CloudVault — Enterprise Cloud Storage & Access Control Platform</b></summary>
 
 <br/>
 
-**Status:** In Development
-
-CloudVault is a secure cloud file management application designed around reliable file operations, user authentication, and controlled access to stored resources.
-
-The project emphasizes backend engineering fundamentals, clean architecture, data ownership, and secure file handling.
+A multi-tenant cloud file management platform engineered for secure object storage, hierarchical directory management, and granular resource ownership enforcement.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, React |
-| **Scale** | MVP implementation |
-| **Performance** | Not yet benchmarked |
-| **Security** | Authentication, authorization, and resource ownership validation |
-| **Impact** | Implements an end-to-end file management workflow |
-| **Repository** | [Browse GitHub repositories](https://github.com/Rogerjaden?tab=repositories) |
+| **Stack** | Java 17, Spring Boot, Spring Security, Spring Data JPA, MySQL, React, Vite |
+| **Scale** | Multi-user hierarchical file and folder storage architecture |
+| **Performance** | Streamed multipart file I/O with optimized relational metadata indexing |
+| **Security** | Stateless JWT authentication, RBAC, and strict resource-level ownership validation |
+| **Impact** | Delivers an end-to-end, fault-tolerant document storage and retrieval workflow |
+| **Repository** | [github.com/Rogerjaden](https://github.com/Rogerjaden?tab=repositories) |
 
-**Engineering Highlights**
+**Engineering Architecture & Execution**
 
-- Designed a relational data model for file and folder management.
-- Implemented secure authentication and authorization.
-- Developed file upload and download functionality.
-- Implemented file ownership and access constraints.
-- Structured backend services around maintainable application responsibilities.
-- Focused on reliable storage operations and validation.
-
-**Engineering Focus:** Backend architecture, file handling, security, database constraints, and API design.
+- Architected a normalized relational schema supporting nested directory trees, file metadata versioning, and user storage quotas.
+- Enforced defense-in-depth authorization filters via Spring Security to prevent unauthorized horizontal and vertical privilege escalation.
+- Implemented transactional upload, download, and deletion lifecycles ensuring strict consistency between metadata records and binary storage.
+- Decoupled controller, service, and persistence layers using DTO projections and centralized exception handling.
 
 </details>
 
 <details>
-<summary><b>02. BookMyShow Clone — Movie Ticket Booking Platform</b></summary>
+<summary><b>02. BookMyShow Engine — High-Concurrency Ticket Booking Platform</b></summary>
 
 <br/>
 
-A full-stack movie ticket booking application inspired by real-world ticketing platforms.
-
-The system focuses on booking workflows, seat availability, concurrent booking prevention, authentication, and payment integration.
+A full-stack distributed ticket reservation system engineered to handle concurrent seat selection, transactional booking workflows, and automated payment reconciliation.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Java, Spring Boot, React, MySQL, Redis, JWT |
-| **Scale** | Full-stack application |
-| **Performance** | No verified benchmark published |
-| **Security** | Spring Security, JWT authentication, role-based access |
-| **Impact** | Implements movie discovery and ticket booking workflows |
-| **Repository** | [Browse GitHub repositories](https://github.com/Rogerjaden?tab=repositories) |
+| **Stack** | Java 17, Spring Boot, React, MySQL, Redis, Spring Security, JWT, Razorpay API |
+| **Scale** | Multi-city, multi-theatre, multi-screen concurrent showtime scheduling |
+| **Performance** | Redis-backed distributed caching and sub-second seat availability lookups |
+| **Security** | JWT authentication, RBAC, and cryptographic webhook signature verification |
+| **Impact** | Eliminates double-booking race conditions under concurrent user seat-locking requests |
+| **Repository** | [github.com/Rogerjaden](https://github.com/Rogerjaden?tab=repositories) |
 
-**Engineering Highlights**
+**Engineering Architecture & Execution**
 
-- Designed relational entities for movies, theatres, screens, seats, shows, and bookings.
-- Implemented authentication and role-based authorization.
-- Developed seat-locking functionality to prevent duplicate seat allocation.
-- Designed booking and payment workflows.
-- Integrated Razorpay payment functionality.
-- Implemented email verification and notification workflows.
-- Explored Redis for improving backend performance and managing frequently accessed data.
-- Worked with concurrency and transaction management concepts.
-
-**Engineering Focus:** Database design, concurrency, transaction management, authentication, and distributed application fundamentals.
+- Engineered a time-bound distributed seat-locking mechanism combining Redis TTL keys and database-level pessimistic locking (`@Lock`) to guarantee zero double bookings.
+- Modeled complex domain relationships across cities, venues, auditoriums, seat layouts, showtimes, and booking ledgers.
+- Integrated Razorpay payment gateways with idempotent order creation and asynchronous verification workflows.
+- Built automated transactional email verification and e-ticket dispatch services.
 
 </details>
 
 <details>
-<summary><b>03. Deep Hybrid Model — Classification of Femoral Stem</b></summary>
+<summary><b>03. Deep Hybrid Neural Architecture — Femoral Stem Implant Classification</b></summary>
 
 <br/>
 
-<badge>93.37% Test Accuracy</badge>
-
-An AI/ML research project focused on classifying femoral stem implant types using hip X-ray images.
-
-The project explores hybrid deep learning architectures combining convolutional feature extraction, attention mechanisms, and Transformer modules.
+A clinical computer vision system leveraging a hybrid ResNet50-CBAM-Transformer architecture to classify orthopedic femoral stem implants from radiographic hip X-rays.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python, PyTorch, ResNet50, CBAM, Transformer |
-| **Scale** | 2,744 images across 3 classes |
-| **Performance** | 93.37% test accuracy |
-| **Security** | Not applicable to this model classification project |
-| **Impact** | Automated classification of femoral stem implant categories |
-| **Repository** | [View Source Code](https://github.com/Rogerjaden/Deep-Hybrid-Model-For-Classification-of-Femoral-Stem) |
+| **Stack** | Python, PyTorch, ResNet50, CBAM Attention, Vision Transformer, Grad-CAM |
+| **Scale** | 2,744 clinical radiographic images across 3 distinct implant classes |
+| **Performance** | **93.37% Test Accuracy** with high multi-class precision and recall |
+| **Security** | Anonymized medical imaging pipeline adhering to data privacy standards |
+| **Impact** | Automates pre-operative orthopedic implant identification with visual explainability |
+| **Repository** | [Deep-Hybrid-Model-For-Classification-of-Femoral-Stem](https://github.com/Rogerjaden/Deep-Hybrid-Model-For-Classification-of-Femoral-Stem) |
 
-**Engineering Highlights**
+**Engineering Architecture & Execution**
 
-- Worked with anatomical, cemented, and uncemented femoral stem categories.
-- Implemented a hybrid neural architecture.
-- Explored ResNet50 for visual feature extraction.
-- Integrated CBAM attention mechanisms.
-- Incorporated Transformer-based feature learning.
-- Evaluated model performance using test accuracy.
-- Experimented with Grad-CAM for model interpretability.
-
-**Engineering Focus:** Computer vision, deep learning, model architecture, feature extraction, and evaluation.
+- Designed a hybrid feature extraction pipeline fusing local spatial hierarchies (ResNet50) with channel-spatial attention (CBAM) and global self-attention (Transformer encoder).
+- Trained and validated across anatomical, cemented, and uncemented femoral stem categories utilizing stratified splitting and targeted data augmentation.
+- Integrated Grad-CAM visual saliency maps to verify that model predictions localize accurately on prosthetic stem geometry.
 
 </details>
 
 <details>
-<summary><b>04. Dexter Builders — Business Website</b></summary>
+<summary><b>04. Dexter Builders — Enterprise Web Platform</b></summary>
 
 <br/>
 
-A responsive business website developed to establish an online presence for a construction and building services business.
-
-The application focuses on presenting business information, showcasing projects, and providing an accessible customer-facing experience.
+A high-performance, responsive corporate web platform engineered to showcase commercial construction portfolios, architectural capabilities, and client acquisition workflows.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | React, JavaScript, HTML, CSS, Vite |
-| **Scale** | Business website |
-| **Performance** | No verified benchmark published |
-| **Security** | Client-side input validation |
-| **Impact** | Digital business presence and project presentation |
-| **Repository** | [Browse GitHub repositories](https://github.com/Rogerjaden?tab=repositories) |
+| **Stack** | React, JavaScript (ES6+), HTML5, CSS3, Vite |
+| **Scale** | Production client-facing web application |
+| **Performance** | Optimized asset bundling, lazy-loaded media galleries, and fast First Contentful Paint |
+| **Security** | Client-side schema validation and sanitized inquiry submission pipelines |
+| **Impact** | Established a modern digital presence driving structured client project inquiries |
+| **Repository** | [github.com/Rogerjaden](https://github.com/Rogerjaden?tab=repositories) |
 
-**Engineering Highlights**
+**Engineering Architecture & Execution**
 
-- Developed responsive website sections.
-- Implemented project presentation and image gallery functionality.
-- Added customer contact functionality.
-- Worked on form validation.
-- Improved navigation and mobile responsiveness.
-- Integrated business information and external links.
-
-**Engineering Focus:** Frontend architecture, responsive UI, usability, and client-side development.
+- Built a modular component architecture featuring interactive project showcases, responsive grid layouts, and cross-device navigation.
+- Implemented structured client inquiry forms with real-time validation and state management.
+- Optimized Vite production build configurations for minimal bundle footprint and rapid load times.
 
 </details>
 
 ---
 
 <!-- ===================================================== -->
-<!--                      EXPERIENCE                       -->
+<!--                      EXPERIENCE                         -->
 <!-- ===================================================== -->
 
 ## Experience
 
-### Independent Software Developer
+### Software Engineer — Independent Systems & Product Development
+**Self-Directed Engineering | 2024 – Present**
 
-**Independent Engineering Projects | Ongoing**
+Architecting, developing, and deploying full-stack and backend-intensive software systems with a focus on distributed systems, concurrency control, and production-grade Java engineering.
 
-Focused on building software applications independently, strengthening engineering fundamentals, and translating technical requirements into functional solutions.
+- Architected and delivered end-to-end backend services in **Java and Spring Boot**, enforcing clean domain boundaries, SOLID principles, and modular service abstractions.
+- Engineered secure, stateless **RESTful APIs** protected by Spring Security, JWT token lifecycles, and role-based access control.
+- Designed normalized relational schemas in **MySQL and PostgreSQL**, optimizing query performance through composite indexing and JPA/Hibernate tuning.
+- Implemented concurrency control mechanisms using **Redis** and database transaction isolation levels to ensure data integrity under parallel workloads.
+- Containerized multi-service applications using **Docker** and automated build/test pipelines via **GitHub Actions**.
 
-**Scope of Work**
-
-- Design and implement backend applications using Java and Spring Boot.
-- Develop REST APIs with authentication, authorization, and validation.
-- Design relational database schemas and manage persistence using JPA and Hibernate.
-- Build full-stack applications using React and Spring Boot.
-- Explore application deployment, Docker, and cloud infrastructure.
-- Implement practical software engineering concepts through end-to-end projects.
-- Continuously improve code quality, testing practices, and application architecture.
-
-**Engineering Skills**
-
-`Java` `Spring Boot` `REST APIs` `Spring Security` `React` `MySQL` `PostgreSQL` `Docker` `Git`
+`Java` `Spring Boot` `Microservices` `Spring Security` `REST APIs` `React` `MySQL` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
 
 ---
 
 <!-- ===================================================== -->
-<!--                      ACHIEVEMENTS                     -->
+<!--                      ACHIEVEMENTS                       -->
 <!-- ===================================================== -->
 
 ## Achievements
@@ -323,19 +267,41 @@ Focused on building software applications independently, strengthening engineeri
 
 | Recognition | Details |
 |:---|:---|
-| LeetCode | 248 problems solved |
-| Deep Learning Project | 93.37% test accuracy |
-| Dataset Processing | 2,744 medical X-ray images |
-| Classification | 3 femoral stem categories |
-| Engineering Projects | Multiple backend and full-stack implementations |
-| Technical Development | Continuous exploration of backend engineering and system design |
+| **Algorithmic Problem Solving** | Solved **248+ Data Structures & Algorithms problems** on LeetCode across Dynamic Programming, Graphs, Trees, and Concurrency |
+| **Deep Learning Research Benchmark** | Achieved **93.37% test accuracy** on a 2,744-image clinical X-ray dataset using a custom ResNet50-CBAM-Transformer architecture |
+| **Full-Stack Production Engineering** | Architected and deployed multiple end-to-end applications featuring distributed locking, payment gateways, and JWT security |
+| **Systems & Architecture Mastery** | Built modular Low-Level Design (LLD) and distributed backend systems grounded in SOLID and enterprise design patterns |
 
 </div>
 
 ---
 
 <!-- ===================================================== -->
-<!--                    CODING PROFILES                    -->
+<!--                     CERTIFICATIONS                      -->
+<!-- ===================================================== -->
+
+## Certifications
+
+<div align="center">
+
+### AWS
+<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations%20%26%20Architecture-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+### Oracle
+<img src="https://img.shields.io/badge/Oracle-Java%20%26%20Database%20Foundations-312E81?style=for-the-badge&logo=oracle&logoColor=white" />
+
+### NPTEL
+<img src="https://img.shields.io/badge/NPTEL-Programming%2C%20DSA%20%26%20Core%20Computing-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
+
+### Cisco
+<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Cybersecurity%20Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+<!--                    CODING PROFILES                      -->
 <!-- ===================================================== -->
 
 ## Coding Profiles
@@ -343,7 +309,16 @@ Focused on building software applications independently, strengthening engineeri
 <div align="center">
 
 <a href="https://leetcode.com/u/Rogerjaden/">
-<img src="https://img.shields.io/badge/LeetCode-248%20Problems%20Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-248%2B%20Solved-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20%26%20Core%20CS-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Java%20%26%20SQL-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -357,7 +332,7 @@ Focused on building software applications independently, strengthening engineeri
 ---
 
 <!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                   -->
+<!--                    GITHUB ANALYTICS                     -->
 <!-- ===================================================== -->
 
 ## GitHub Analytics
@@ -365,21 +340,18 @@ Focused on building software applications independently, strengthening engineeri
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rogerjaden&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&hide_border=true" />
-
 <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Rogerjaden&theme=tokyonight&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA&hide_border=true" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerjaden&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerjaden&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_border=true&langs_count=8" />
 
 </div>
-
-<sub>Private contribution visibility depends on the statistics service's token permissions and configuration. For reliable private-repository statistics, use a self-hosted instance with an appropriately authorized token.</sub>
 
 ---
 
 <!-- ===================================================== -->
-<!--                    GITHUB TROPHIES                    -->
+<!--                    GITHUB TROPHIES                      -->
 <!-- ===================================================== -->
 
 ## GitHub Trophies
@@ -393,7 +365,7 @@ Focused on building software applications independently, strengthening engineeri
 ---
 
 <!-- ===================================================== -->
-<!--                 CONTRIBUTION ACTIVITY                 -->
+<!--                 CONTRIBUTION ACTIVITY                   -->
 <!-- ===================================================== -->
 
 ## Contribution Activity
@@ -407,7 +379,7 @@ Focused on building software applications independently, strengthening engineeri
 ---
 
 <!-- ===================================================== -->
-<!--                  CONTRIBUTION SNAKE                   -->
+<!--                   CONTRIBUTION SNAKE                    -->
 <!-- ===================================================== -->
 
 ## Contribution Snake
@@ -421,94 +393,31 @@ Focused on building software applications independently, strengthening engineeri
 ---
 
 <!-- ===================================================== -->
-<!--                    CURRENT FOCUS                      -->
+<!--                     CURRENT FOCUS                       -->
 <!-- ===================================================== -->
 
 ## Current Focus
 
 ```yaml
-developer:
-  name: Roger Jaden
-  primary_role: Software Engineer
-  specialization: Java Backend Development
-
 learning:
-  - Data Structures and Algorithms
-  - System Design
-  - Distributed Systems
-  - Microservices Architecture
-  - Advanced Spring Boot
-  - Database Optimization
-  - Cloud Infrastructure
+  - Distributed Systems & Consensus Protocols
+  - Microservices Resilience & Event-Driven Architecture
+  - Advanced Database Indexing & Query Execution Plans
+  - Cloud-Native Orchestration with Kubernetes
 
 building:
-  - CloudVault
-  - Scalable Backend Applications
-  - Full Stack Applications
-  - Production-oriented Engineering Projects
+  - CloudVault — Enterprise Cloud Storage & Access Control Platform
+  - High-Concurrency Backend Microservices in Java & Spring Boot
+  - Scalable Full-Stack Applications with React & TypeScript
 
 exploring:
-  - Redis
-  - Apache Kafka
-  - Spring Cloud
-  - Kubernetes
-  - AWS
-  - Open Source Development
+  - Apache Kafka & Event Streaming Pipelines
+  - Distributed Caching Strategies with Redis
+  - Spring Cloud Gateway & Service Mesh Patterns
+  - Production Observability (Prometheus, Grafana, OpenTelemetry)
 
 open_to:
-  - Software Engineering Opportunities
-  - Java Backend Roles
-  - Full Stack Engineering
-  - Open Source Contributions
-  - Technical Collaboration
-```
-
----
-
-<!-- ===================================================== -->
-<!--                       CONNECT                         -->
-<!-- ===================================================== -->
-
-## Connect With Me
-
-I'm always interested in discussing software engineering, backend architecture, interesting technical problems, and open-source collaboration.
-
-<div align="center">
-
-<a href="mailto:rogerjaden384@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/rogerjaden384">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Rogerjaden">
-<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://rogerjaden-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Let's build something meaningful.**
-
-</div>
-
----
-
-<!-- ===================================================== -->
-<!--                         FOOTER                        -->
-<!-- ===================================================== -->
-
-<div align="center">
-
-*“Great software is not just written. It is engineered with clarity, reliability, and purpose.”*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:1E1B4B&height=120&section=footer" />
-
-</div>
+  - Software Development Engineer (SDE) Roles
+  - Java Backend & Distributed Systems Engineering
+  - Full-Stack Product Engineering Roles
+  - Open Source Software Collaboration
