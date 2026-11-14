@@ -1,40 +1,43 @@
-
 <!-- ===================================================== -->
 <!--                    ANIMATED HEADER                    -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:312E81&height=190&section=header&text=ROGER%20JADEN&fontSize=48&fontColor=EDE9FE&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:312E81&height=190&section=header&text=ROGER%20JADEN&fontSize=48&fontColor=EDE9FE&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Backend%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Roger Jaden — Software Engineer | Java Backend Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+React;Exploring+Distributed+Systems+%26+Cloud;Engineering+Reliable+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+React;Exploring+Distributed+Systems+%26+Cloud;Engineering+Reliable+Software+Solutions" alt="Typing animation of Roger Jaden’s engineering focus areas" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-4C1D95?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/PSNA%20CET-Tamil%20Nadu-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-India-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-4C1D95?style=for-the-badge&logo=academia&logoColor=white" alt="B.E. Electronics and Communication" />
+<img src="https://img.shields.io/badge/PSNA%20CET-Tamil%20Nadu-312E81?style=for-the-badge&logo=googlescholar&logoColor=white" alt="PSNA CET, Tamil Nadu" />
+<img src="https://img.shields.io/badge/Location-India-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: India" />
 
 <br/><br/>
 
 <a href="https://rogerjaden-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=render&logoColor=white" alt="Visit portfolio website" />
 </a>
 <a href="https://www.linkedin.com/in/rogerjaden384">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge" alt="Connect on LinkedIn" />
 </a>
 <a href="mailto:rogerjaden384@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
 <a href="https://github.com/Rogerjaden">
-<img src="https://img.shields.io/badge/GITHUB-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rogerjaden&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Rogerjaden?style=for-the-badge&color=4F46E5&label=FOLLOWERS&logo=github" />
-<img src="https://img.shields.io/github/stars/Rogerjaden?style=for-the-badge&color=7C3AED&label=TOTAL+STARS&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Rogerjaden&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/Rogerjaden?tab=followers">
+<img src="https://img.shields.io/github/followers/Rogerjaden?style=for-the-badge&color=4F46E5&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers" />
+</a>
+<a href="https://github.com/Rogerjaden?tab=repositories">
+<img src="https://img.shields.io/github/stars/Rogerjaden?style=for-the-badge&color=7C3AED&label=TOTAL+STARS&logo=github&logoColor=white" alt="Total GitHub stars" />
+</a>
 
 </div>
 
@@ -46,7 +49,7 @@
 
 ## About Me
 
-I'm **Roger Jaden**, a Software Engineer focused on building reliable, scalable, and maintainable software systems.
+I’m **Roger Jaden**, a Software Engineer focused on building reliable, scalable, and maintainable software systems.
 
 My primary engineering focus is **Java backend development with Spring Boot**, complemented by full-stack development experience and practical exposure to AI/ML.
 
@@ -84,37 +87,37 @@ Technologies and tools I work with, grouped by engineering domain.
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" alt="Java, Python, JavaScript, MySQL" />
 </p>
 
 ### Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" alt="React, HTML, CSS, Vite" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis&theme=dark" alt="Spring, Hibernate, MySQL, PostgreSQL, Redis" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,idea,postman,maven,kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,idea,postman,maven,kafka&theme=dark" alt="AWS, Docker, Git, GitHub, IntelliJ IDEA, Postman, Maven, Kafka" />
 </p>
 
 ### Testing & Engineering Practices
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit%205-4C1D95?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+<img src="https://img.shields.io/badge/Mockito-4F46E5?style=flat-square&logo=openjdk&logoColor=white" alt="Mockito" />
+<img src="https://img.shields.io/badge/Testcontainers-6D28D9?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
+<img src="https://img.shields.io/badge/Spring%20Security-312E81?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-4338CA?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 </p>
 
@@ -157,7 +160,7 @@ A selection of engineering projects demonstrating backend development, full-stac
 
 <br/>
 
-**Status:** In Development
+<img src="https://img.shields.io/badge/Status-In%20Development-6D28D9?style=flat-square" alt="Status: In Development" />
 
 CloudVault is a secure cloud file management application designed around reliable file operations, user authentication, and controlled access to stored resources.
 
@@ -223,7 +226,7 @@ The system focuses on booking workflows, seat availability, concurrent booking p
 
 <br/>
 
-<badge>93.37% Test Accuracy</badge>
+<img src="https://img.shields.io/badge/Test%20Accuracy-93.37%25-7C3AED?style=flat-square" alt="Test accuracy: 93.37%" />
 
 An AI/ML research project focused on classifying femoral stem implant types using hip X-ray images.
 
@@ -234,7 +237,7 @@ The project explores hybrid deep learning architectures combining convolutional 
 | **Stack** | Python, PyTorch, ResNet50, CBAM, Transformer |
 | **Scale** | 2,744 images across 3 classes |
 | **Performance** | 93.37% test accuracy |
-| **Security** | Not applicable to this model classification project |
+| **Security** | Not applicable to this research project |
 | **Impact** | Automated classification of femoral stem implant categories |
 | **Repository** | [View Source Code](https://github.com/Rogerjaden/Deep-Hybrid-Model-For-Classification-of-Femoral-Stem) |
 
@@ -335,6 +338,48 @@ Focused on building software applications independently, strengthening engineeri
 ---
 
 <!-- ===================================================== -->
+<!--                    CERTIFICATIONS                     -->
+<!-- ===================================================== -->
+
+## Certifications
+
+Professional and academic credentials, grouped by provider.
+
+### AWS
+
+<p align="center">
+<a href="https://aws.amazon.com/certification/">
+<img src="https://img.shields.io/badge/AWS-Certification%20Name-4C1D95?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS certification" />
+</a>
+</p>
+
+### Oracle
+
+<p align="center">
+<a href="https://education.oracle.com/">
+<img src="https://img.shields.io/badge/Oracle-Certification%20Name-4F46E5?style=flat-square" alt="Oracle certification" />
+</a>
+</p>
+
+### NPTEL
+
+<p align="center">
+<a href="https://nptel.ac.in/">
+<img src="https://img.shields.io/badge/NPTEL-Course%20Name-6D28D9?style=flat-square" alt="NPTEL certification" />
+</a>
+</p>
+
+### Cisco
+
+<p align="center">
+<a href="https://www.netacad.com/">
+<img src="https://img.shields.io/badge/Cisco-Certification%20Name-312E81?style=flat-square&logo=cisco&logoColor=white" alt="Cisco certification" />
+</a>
+</p>
+
+---
+
+<!-- ===================================================== -->
 <!--                    CODING PROFILES                    -->
 <!-- ===================================================== -->
 
@@ -343,13 +388,25 @@ Focused on building software applications independently, strengthening engineeri
 <div align="center">
 
 <a href="https://leetcode.com/u/Rogerjaden/">
-<img src="https://img.shields.io/badge/LeetCode-248%20Problems%20Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-248%20Problems%20Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode — 248 problems solved" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/Rogerjaden/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
+</a>
+
+<br/>
+
+<a href="https://www.hackerrank.com/profile/Rogerjaden">
+<img src="https://img.shields.io/badge/HackerRank-View%20Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
+</a>
+<a href="https://www.codechef.com/users/Rogerjaden">
+<img src="https://img.shields.io/badge/CodeChef-View%20Profile-4C1D95?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/Rogerjaden/">
-<img src="https://leetcard.jacoblin.cool/Rogerjaden?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=12" alt="LeetCode Statistics" />
+<img src="https://leetcard.jacoblin.cool/Rogerjaden?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=12" alt="LeetCode statistics" />
 </a>
 
 </div>
@@ -364,24 +421,17 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<img src="./assets/overview.dark.svg" width="100%" alt="GitHub Overview" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rogerjaden&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=A78BFA&hide_border=true" alt="GitHub statistics" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Rogerjaden&theme=tokyonight&background=0D1117&ring=A78BFA&fire=818CF8&currStreakNum=EDE9FE&currStreakLabel=A78BFA&sideNums=C4B5FD&sideLabels=A78BFA&dates=94A3B8&stroke=312E81&hide_border=true" alt="GitHub streak statistics" />
 
 <br/><br/>
 
-<img src="./assets/lifetime.dark.svg" width="100%" alt="Lifetime Contributions" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerjaden&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_border=true&langs_count=8" alt="Most used languages" />
 
 </div>
 
-<div align="center">
-
-<img src="./assets/contributions.dark.svg" width="100%" alt="Contribution Streak" />
-
-<br/><br/>
-
-<img src="./assets/languages.dark.svg" width="70%" alt="Top Languages" />
-
-</div>
-
+<sub>Private contribution visibility depends on the statistics service’s token permissions and configuration. For reliable private-repository statistics, use a self-hosted instance with an appropriately authorized token.</sub>
 
 ---
 
@@ -393,11 +443,7 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<a href="https://github.com/Rogerjaden?tab=achievements">
-
-<img src="https://img.shields.io/badge/GitHub-View%20Achievements-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Rogerjaden&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
 
 </div>
 
@@ -411,11 +457,7 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<img src="./assets/rhythm.dark.svg" width="100%" alt="Contribution Activity" />
-
-<br/><br/>
-
-<img src="./assets/momentum.dark.svg" width="100%" alt="Contribution Momentum" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rogerjaden&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -429,7 +471,7 @@ Focused on building software applications independently, strengthening engineeri
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rogerjaden/Rogerjaden/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Rogerjaden/Rogerjaden/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -486,29 +528,29 @@ open_to:
 
 ## Connect With Me
 
-I'm always interested in discussing software engineering, backend architecture, interesting technical problems, and open-source collaboration.
+I’m always interested in discussing software engineering, backend architecture, interesting technical problems, and open-source collaboration.
 
 <div align="center">
 
 <a href="mailto:rogerjaden384@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Roger Jaden" />
 </a>
 
 <a href="https://www.linkedin.com/in/rogerjaden384">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge" alt="Connect on LinkedIn" />
 </a>
 
 <a href="https://github.com/Rogerjaden">
-<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 
 <a href="https://rogerjaden-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=render&logoColor=white" alt="Explore the portfolio" />
 </a>
 
 <br/><br/>
 
-**Let's build something meaningful.**
+**Let’s build something meaningful.**
 
 </div>
 
@@ -524,6 +566,6 @@ I'm always interested in discussing software engineering, backend architecture, 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:1E1B4B&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4C1D95,100:1E1B4B&height=120&section=footer" alt="Footer banner" />
 
 </div>
