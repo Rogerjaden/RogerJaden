@@ -96,7 +96,7 @@ Technologies and tools I work with, grouped by engineering domain.
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,mysql,postgres,redis&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -231,7 +231,7 @@ The project explores hybrid deep learning architectures combining convolutional 
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Python, PyTorch, ResNet50, CBAM, Transformer |
+| **Stack** | Python, PyTorch, ResNet50, ECA, Transformer |
 | **Scale** | 2,744 images across 3 classes |
 | **Performance** | 93.37% test accuracy |
 | **Security** | Not applicable to this model classification project |
@@ -243,7 +243,7 @@ The project explores hybrid deep learning architectures combining convolutional 
 - Worked with anatomical, cemented, and uncemented femoral stem categories.
 - Implemented a hybrid neural architecture.
 - Explored ResNet50 for visual feature extraction.
-- Integrated CBAM attention mechanisms.
+- Integrated ECA attention mechanisms.
 - Incorporated Transformer-based feature learning.
 - Evaluated model performance using test accuracy.
 - Experimented with Grad-CAM for model interpretability.
